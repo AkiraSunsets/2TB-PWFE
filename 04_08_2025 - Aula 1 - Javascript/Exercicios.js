@@ -1,18 +1,18 @@
-//Exercicio 1 - Ex
-let nome = prompt("Digite seu nome:"); 
-console.log("Olá! " + nome);
+//Exercicio 1 
+let seuNome = prompt("Digite seu nome:"); 
+alert("Olá " + seuNome + ", seja bem-vindo(a) ao Senai!");
 
 
 //Exercicio 2
 let materia = prompt("Qual é a sua matéria favorita?");
-console.log("A matéria {materia} realmente é ótima!");
+alert("Sua materia favorita " + materia +  "É muito interessante!");
 
 
 //Exercicio 3
 let data = prompt("Que dia é hoje?");
-console.log("Hoje é dia: " + data);
+alert("Hoje é dia: " + data);
 
 
 //Exercicio 4
 let estado = prompt("Estás preparado para o segundo semestre de desenvolvimento de sistemas?");
-console.log("Você está preparado?" + estado);
+alert("Você está preparado?" + estado);
