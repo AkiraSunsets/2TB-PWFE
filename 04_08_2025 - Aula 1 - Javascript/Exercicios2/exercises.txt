@@ -1,1 +1,18 @@
+//1 - Peça um número ao usuário e imprima se ele é par ou impar. 
+E se é múltiplo de 3 ou 5.
 
+//2 - Peça três números ao usuário e imprima o maior
+//3 - peça um número ao usuário e imprima a classificação de idade
+// bebê = menor de 2 anos, criança = menor de 13 anos, adolescente = menor de 18 anos
+// adulto = menor de 60 anos, idoso = maior ou igual 60 anos
+
+//4 - conversor de unidades. Escreva um programa que permita ao usuário escolher entre
+//converter uma temperatura de celsius para fahrenheit ou vice-versa. Solicite o valor e execute
+// a conversão.
+
+//5 - Faça um programa que leia o ano de nascimento de uma pessoa e calcule a idade dela e mostre
+// se ela pode votar ou não
+
+//6 - faça um algoritmo que leia um número e determine se ele é bissexto ou não
+
+//7
